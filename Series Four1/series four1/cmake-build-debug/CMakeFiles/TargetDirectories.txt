@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Four1/series four1/cmake-build-debug/CMakeFiles/series_four1.dir
+C:/Users/USER/Desktop/Series Four1/series four1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Four1/series four1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

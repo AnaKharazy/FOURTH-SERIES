@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Four5/series four5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Four5/series four5/cmake-build-debug/CMakeFiles/series_four5.dir
+C:/Users/USER/Desktop/Series Four5/series four5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
