@@ -7,7 +7,7 @@ int main() {
     printf("\n 1.student");
     printf("\n 2.not a student");
     printf("\n choose an option:");
-    scanf("%lf", &option);
+    scanf("%d", &option);
 
     printf("\n total_purchases-$:");
     scanf("%lf", &total_purchases);
@@ -19,7 +19,7 @@ int main() {
         total = Total_rebate + tax;
 
         printf("\n total_purchases $%2.f", total_purchases);
-        printf("\n student's rebate( %lf%%) $%2.f", (rebate * 100), off_price);
+        printf("\n student's rebate( %2.2f%%) $%2.f", (rebate * 100), off_price);
         printf("\n total rebate $%2.f", Total_rebate);
         printf("\n total $%2.f", total);
     } else if (option == 2) {
